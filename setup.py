@@ -24,7 +24,7 @@ setup(
 	'cssselect==1.0.3',
 	'idna==2.6',
 	'lxml==4.1.1',
-	'requests==2.18.4',
+	'requests==2.20.0',
 	'urllib3==1.22',
     ],
     include_package_data=True,
